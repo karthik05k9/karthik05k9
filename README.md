@@ -46,15 +46,6 @@ When I'm not coding, you'll probably find me reading about startups, exploring n
 
 ---
 
-# 🚀 Currently Building
-
-- 🤖 AI-powered applications
-- 🌐 Modern full-stack web applications
-- 🥽 Virtual & Mixed Reality experiences
-- 📊 Data visualization dashboards
-- 🧠 Intelligent automation tools
-
----
 
 # ⭐ Featured Projects
 
@@ -194,9 +185,9 @@ They include projects in
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthik05k9&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik05k9&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -206,29 +197,13 @@ They include projects in
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik05k9&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌎 Let's Connect
 
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://kk.dev">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
