@@ -2,13 +2,11 @@
 Krishna Karthik Kotamraju
 </h1>
 </b>
-<h3 align="center">
-Building software that combines AI, XR, and thoughtful user experiences.
-</h3>
-
 <p align="center">
-Computer Science Student • Full Stack Developer • Agentic AI Developer • XR Enthusiast
+M.S. Computer Science @ USC • Full Stack Developer • AWS Certified Solutions Architect • Agentic AI Developer • XR Enthusiast
 </p>
+
+*I build systems that think, scale, and ship.*
 
 <p align="center">
 
