@@ -1,48 +1,41 @@
-<h1 align="center">
-Hi 👋 I'm Karthik
+<b><h1 align="center">
+Krishna Karthik Kotamraju
 </h1>
-
+</b>
 <h3 align="center">
 Building software that combines AI, XR, and thoughtful user experiences.
 </h3>
 
 <p align="center">
-Computer Science Student • Full Stack Developer • XR Enthusiast
+Computer Science Student • Full Stack Developer • Agentic AI Developer • XR Enthusiast
 </p>
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/kkrishnakarthik">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://kk.dev">
+<a href="https://https://krishnakarthik.dev/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 👋 About Me
+# About Me
 
-I'm a Computer Science student passionate about building products that solve real problems.
+I'm a CS grad student at USC obsessed with the space where **AI meets real systems** — not demos, but production-grade software with real latency constraints, real users, and real consequences.
 
-My interests lie at the intersection of
+My work lives at the intersection of:
 
-- 🤖 Artificial Intelligence
-- 🥽 Extended Reality (XR)
-- 🌐 Full Stack Development
-- 🎨 Product Design
-- ☁️ Cloud Technologies
+- **Agentic AI** — multi-agent pipelines, RAG, MCP, LLM orchestration
+- **Distributed Systems** — event-sourced architectures, low-latency services, microservices
+-  **Full Stack Engineering** — React, Node.js, TypeScript, REST, GraphQL
+-  **Cloud & Infrastructure** — AWS (Lambda, EKS, S3, API Gateway), Docker, CI/CD
 
-I enjoy taking ideas from **concept → design → development → deployment**, while continuously learning and experimenting with emerging technologies.
-
-When I'm not coding, you'll probably find me reading about startups, exploring new frameworks, or working on side projects.
+I take ideas from **concept → design → build → ship**, and I care deeply about writing software that is maintainable, measurable, and fast.
 
 ---
 
@@ -59,83 +52,56 @@ When I'm not coding, you'll probably find me reading about startups, exploring n
 | **Open Source** | Building and contributing to projects in public. | 💻 Active |
 
 ---
+## 🛠️ Tech Stack
 
-# 🛠 Tech Stack
+**Languages**
 
-### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-<p>
+**AI / ML**
 
-<img src="https://skillicons.dev/icons?i=python"/>
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat)
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+**Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=java"/>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=js"/>
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=ts"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-</p>
+**Cloud & Infrastructure**
 
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
-### Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</p>
-
-### Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
+## A Bit More
+
+- 🎓 **Teaching Assistant** for CSCI 585 Database Systems at USC — supporting 100+ graduate students
+- 🏢 **2.5 years** as SDE at Brane Enterprises — shipped an AI agent that cut internal meetings by ~50%, led an 8-member team for a $250K fintech engagement
+- 🏅 **AWS Certified Solutions Architect** — Associate
 ---
 
 <p align="center">
