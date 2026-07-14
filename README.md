@@ -47,47 +47,16 @@ When I'm not coding, you'll probably find me reading about startups, exploring n
 ---
 
 
-# ⭐ Featured Projects
+# 🚀 What I'm Building
 
-## 🌐 KK.dev
-
-My digital home.
-
-A place where I showcase my projects, write technical blogs, document experiments, and share what I'm currently building.
-
-**Tech**
-
-React • Next.js • TailwindCSS • Vercel
-
----
-
-## 🤖 AI Assistant
-
-A conversational AI workspace that combines memory, automation, and intelligent workflows into one application.
-
-**Tech**
-
-Python • OpenAI • React • Firebase
-
----
-
-## 🥽 XR Showcase
-
-A collection of immersive virtual and mixed reality experiences focused on interaction design and storytelling.
-
-**Tech**
-
-Unity • C# • Blender
-
----
-
-## 📊 Analytics Dashboard
-
-A modern dashboard for visualizing complex datasets with interactive charts and actionable insights.
-
-**Tech**
-
-React • Node.js • PostgreSQL
+| Project | What it does | Status |
+|---------|--------------|--------|
+| **KK.dev** | Personal portfolio showcasing my work and technical blogs. | 🟢 Live |
+| **Flora** | AI-powered productivity assistant with intelligent workflows. | 🚧 In Progress |
+| **RevForge** | AI resume builder with ATS optimization. | 🚧 In Progress |
+| **RoomRover** | Full-stack room booking platform. | 🟢 Live |
+| **XR Playground** | Experiments in VR, AR, and immersive interaction. | 🔬 Research |
+| **Open Source** | Building and contributing to projects in public. | 💻 Active |
 
 ---
 
