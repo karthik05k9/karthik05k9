@@ -40,7 +40,7 @@ I take ideas from **concept → design → build → ship**, and I care deeply a
 ---
 
 
-# 🚀 What I'm Building
+#  What I'm Building
 
 | Project | What it does | Status |
 |---------|--------------|--------|
@@ -52,7 +52,7 @@ I take ideas from **concept → design → build → ship**, and I care deeply a
 | **Open Source** | Building and contributing to projects in public. | 💻 Active |
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -99,15 +99,15 @@ I take ideas from **concept → design → build → ship**, and I care deeply a
 
 ## A Bit More
 
-- 🎓 **Teaching Assistant** for CSCI 585 Database Systems at USC — supporting 100+ graduate students
-- 🏢 **2.5 years** as SDE at Brane Enterprises — shipped an AI agent that cut internal meetings by ~50%, led an 8-member team for a $250K fintech engagement
-- 🏅 **AWS Certified Solutions Architect** — Associate
+-  **Teaching Assistant** for CSCI 585 Database Systems at USC — supporting 100+ graduate students
+-  **2.5 years** as SDE at Brane Enterprises — shipped an AI agent that cut internal meetings by ~50%, led an 8-member team for a $250K fintech engagement
+-  **AWS Certified Solutions Architect** — Associate
 ---
 
 <p align="center">
 
 > *"Great software isn't just built. It's crafted through curiosity, iteration, and continuous learning."*
 
-⭐ Thanks for stopping by!
+ Thanks for stopping by!
 
 </p>
