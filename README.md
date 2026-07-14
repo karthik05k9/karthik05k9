@@ -26,14 +26,15 @@ I build systems that think, scale, and ship.
 
 # About Me
 
-I'm a CS grad student at USC obsessed with the space where **AI meets real systems** — not demos, but production-grade software with real latency constraints, real users, and real consequences.
+I'm a CS grad student at USC. I build AI systems and Full stack projects, that actually hold up under
+real load, real users, and real deadlines,
 
 My work lives at the intersection of:
 
-- **Agentic AI** — multi-agent pipelines, RAG, MCP, LLM orchestration
-- **Distributed Systems** — event-sourced architectures, low-latency services, microservices
--  **Full Stack Engineering** — React, Node.js, TypeScript, REST, GraphQL
--  **Cloud & Infrastructure** — AWS (Lambda, EKS, S3, API Gateway), Docker, CI/CD
+- **Agentic AI**  multi-agent pipelines, RAG, MCP, LLM orchestration
+-  **Full Stack Engineering**  React, Node.js, TypeScript, REST, GraphQL
+-  **Cloud & Infrastructure**  AWS (Lambda, EKS, S3, API Gateway), Docker, CI/CD
+
 
 I take ideas from **concept → design → build → ship**, and I care deeply about writing software that is maintainable, measurable, and fast.
 
@@ -97,12 +98,6 @@ I take ideas from **concept → design → build → ship**, and I care deeply a
 
 ---
 
-## A Bit More
-
--  **Teaching Assistant** for CSCI 585 Database Systems at USC — supporting 100+ graduate students
--  **2.5 years** as SDE at Brane Enterprises — shipped an AI agent that cut internal meetings by ~50%, led an 8-member team for a $250K fintech engagement
--  **AWS Certified Solutions Architect** — Associate
----
 
 <p align="center">
 
