@@ -27,7 +27,7 @@ I build systems that think, scale, and ship.
 # About Me
 
 I'm a CS grad student at USC. I build AI systems and Full stack projects, that actually hold up under
-real load, real users, and real deadlines,
+real load, real users, and real deadlines.
 
 My work lives at the intersection of:
 
@@ -98,11 +98,3 @@ I take ideas from **concept → design → build → ship**, and I care deeply a
 
 ---
 
-
-<p align="center">
-
-> *"Great software isn't just built. It's crafted through curiosity, iteration, and continuous learning."*
-
- Thanks for stopping by!
-
-</p>
