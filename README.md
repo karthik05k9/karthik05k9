@@ -16,7 +16,7 @@ I build systems that think, scale, and ship.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://https://krishnakarthik.dev/">
+<a href="https://krishnakarthik.dev/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -46,11 +46,12 @@ I take ideas from **concept → design → build → ship**, and I care deeply a
 | Project | What it does | Status |
 |---------|--------------|--------|
 | **KK.dev** | Personal portfolio showcasing my work and technical blogs. | 🟢 Live |
-| **Flora** | AI-powered productivity assistant with intelligent workflows. | 🚧 In Progress |
-| **RevForge** | AI resume builder with ATS optimization. | 🚧 In Progress |
-| **RoomRover** | Full-stack room booking platform. | 🟢 Live |
-| **XR Playground** | Experiments in VR, AR, and immersive interaction. | 🔬 Research |
-| **Open Source** | Building and contributing to projects in public. | 💻 Active |
+|**Multi-Agent Research Intelligence Platform**| A full-stack AI research platform that performs real-time retrieval from **5+ sources** and uses a **RAG pipeline** with **6 specialized reasoning agents** to turn raw research into structured insight.|🚧 In Progress|
+| **MockPad** |Real-time collaborative interviews Platform | 🟢 Live |
+| **Containerized Microservices Infrastructure Platform** | A self-hostable microservices platform built for fault-tolerant workflow execution, 
+secure service communication, and real-time application observability. | 🚧 In Progress |
+| **CelestiaVR** |Immersive VR stargazing for Meta Quest 3 with NASA/JPL data| 🟢 Live |
+
 
 ---
 ## Tech Stack
