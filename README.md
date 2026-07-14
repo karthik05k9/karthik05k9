@@ -48,8 +48,7 @@ I take ideas from **concept → design → build → ship**, and I care deeply a
 | **KK.dev** | Personal portfolio showcasing my work and technical blogs. | 🟢 Live |
 |**Multi-Agent Research Intelligence Platform**| A full-stack AI research platform that performs real-time retrieval from **5+ sources** and uses a **RAG pipeline** with **6 specialized reasoning agents** to turn raw research into structured insight.|🚧 In Progress|
 | **MockPad** |Real-time collaborative interviews Platform | 🟢 Live |
-| **Containerized Microservices Infrastructure Platform** | A self-hostable microservices platform built for fault-tolerant workflow execution, 
-secure service communication, and real-time application observability. | 🚧 In Progress |
+| **Containerized Microservices Infrastructure Platform** | A self-hostable microservices platform built for fault-tolerant workflow execution, secure service communication, and real-time application observability. |🚧 In Progress |
 | **CelestiaVR** |Immersive VR stargazing for Meta Quest 3 with NASA/JPL data| 🟢 Live |
 
 
