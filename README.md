@@ -167,44 +167,6 @@ React • Node.js • PostgreSQL
 
 ---
 
-# 📌 Pinned Repositories
-
-> ⭐ Check out the repositories pinned below for my best work.
-
-They include projects in
-
-- Artificial Intelligence
-- Full Stack Development
-- XR / VR
-- Web Applications
-- Research & Experiments
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthik05k9&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik05k9&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik05k9&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-
-
 ---
 
 <p align="center">
