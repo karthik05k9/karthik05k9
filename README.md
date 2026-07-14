@@ -3,10 +3,12 @@ Krishna Karthik Kotamraju
 </h1>
 </b>
 <p align="center">
-M.S. Computer Science @ USC • Full Stack Developer • AWS Certified Solutions Architect • Agentic AI Developer • XR Enthusiast
+M.S. Computer Science @ USC • Full Stack Developer • AWS Certified Solutions Architect • Agentic AI Developer 
 </p>
 
-*I build systems that think, scale, and ship.*
+<p align="center">
+I build systems that think, scale, and ship.
+</p>
 
 <p align="center">
 
