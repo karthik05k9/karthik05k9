@@ -43,13 +43,13 @@ I take ideas from **concept → design → build → ship**, and I care deeply a
 
 | Project | What it does | Links | Status |
 |---------|--------------|-------|--------|
-| **My Profile** | Personal portfolio showcasing my work and technical blogs. | [Live](https://krishnakarthik.dev/) | 🟢 Live |
-| **MARA** | A full-stack AI research platform performing real-time retrieval from **5+ sources** through a **RAG pipeline** with **6 specialized reasoning agents**, turning raw research into structured insight. | [GitHub](https://github.com/karthik05k9/MARA-Multi-Agent-Research-Intelligence-Platform) | 🚧 In Progress |
-| **MockPad** | Real-time collaborative interview platform — shared code editor, whiteboard, voice, and in-room code execution, built on Yjs CRDTs. | [Live](https://mockpad-kappa.vercel.app/) · [GitHub](https://github.com/RDX-Rajat-Savdekar/mockpad) | 🟢 Live |
-| **DevStack** | A self-hostable developer infrastructure platform — six services spanning feature flags, workflow orchestration, observability, auth, event analytics, and error tracking, behind a single Docker Compose command. | [GitHub](https://github.com/RDX-Rajat-Savdekar/DevStack) | 🚧 In Progress |
-| **CelestiaVR** | Immersive VR stargazing for Meta Quest 3, grounded in real NASA/JPL orbital data across 10,000+ celestial bodies. | [Demo](https://www.youtube.com/watch?v=D05QMqR-XI0) · [Deck](https://rdx-rajat-savdekar.github.io/Celestia_Presentation/) · [GitHub](https://github.com/RDX-Rajat-Savdekar/VR-Celestia) | 🟢 Live |
-| **Stitch** | Autonomous CI repair agent — reads failing GitHub Actions logs, diagnoses the root cause, and opens a validated fix PR unattended. | [GitHub](https://github.com/RDX-Rajat-Savdekar/openai_build_week) | 🟢 Live |
-| **EmojiCode** | Comment-native cipher game on Reddit's Devvit Web platform, with Levenshtein fuzzy matching and Redis leaderboards. | [GitHub](https://github.com/Khushalsarode/EmojiCode) | 🟢 Live |
+| **My Profile** | Personal portfolio showcasing my work and technical blogs. | [Live](https://krishnakarthik.dev/) | 
+| **MARA** | A full-stack AI research platform performing real-time retrieval from **5+ sources** through a **RAG pipeline** with **6 specialized reasoning agents**, turning raw research into structured insight. | [GitHub](https://github.com/karthik05k9/MARA-Multi-Agent-Research-Intelligence-Platform) | 
+| **MockPad** | Real-time collaborative interview platform — shared code editor, whiteboard, voice, and in-room code execution, built on Yjs CRDTs. | [Live](https://mockpad-kappa.vercel.app/) · [GitHub](https://github.com/RDX-Rajat-Savdekar/mockpad) | 
+| **DevStack** | A self-hostable developer infrastructure platform — six services spanning feature flags, workflow orchestration, observability, auth, event analytics, and error tracking, behind a single Docker Compose command. | [GitHub](https://github.com/RDX-Rajat-Savdekar/DevStack) | 
+| **CelestiaVR** | Immersive VR stargazing for Meta Quest 3, grounded in real NASA/JPL orbital data across 10,000+ celestial bodies. | [Demo](https://www.youtube.com/watch?v=D05QMqR-XI0) · [Deck](https://rdx-rajat-savdekar.github.io/Celestia_Presentation/) · [GitHub](https://github.com/RDX-Rajat-Savdekar/VR-Celestia) | 
+| **Stitch** | Autonomous CI repair agent — reads failing GitHub Actions logs, diagnoses the root cause, and opens a validated fix PR unattended. | [GitHub](https://github.com/RDX-Rajat-Savdekar/openai_build_week) | 
+| **EmojiCode** | Comment-native cipher game on Reddit's Devvit Web platform, with Levenshtein fuzzy matching and Redis leaderboards. | [GitHub](https://github.com/Khushalsarode/EmojiCode) | 
 ---
 
 ## Tech Stack
