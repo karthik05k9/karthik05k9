@@ -43,7 +43,7 @@ I take ideas from **concept → design → build → ship**, and I care deeply a
 
 | Project | What it does | Links |
 |---------|--------------|-------|
-| **Krishna Karthik.dev Profile** | Personal portfolio showcasing my work and technical blogs. | [Live](https://krishnakarthik.dev/) | 
+| **Krishna Karthik.dev ** | Personal portfolio showcasing my work and technical blogs. | [Live](https://krishnakarthik.dev/) | 
 | **MARA** | A full-stack AI research platform performing real-time retrieval from **5+ sources** through a **RAG pipeline** with **6 specialized reasoning agents**, turning raw research into structured insight. | [GitHub](https://github.com/karthik05k9/MARA-Multi-Agent-Research-Intelligence-Platform) | 
 | **MockPad** | Real-time collaborative interview platform — shared code editor, whiteboard, voice, and in-room code execution, built on Yjs CRDTs. | [Live](https://mockpad-kappa.vercel.app/) · [GitHub](https://github.com/RDX-Rajat-Savdekar/mockpad) | 
 | **DevStack** | A self-hostable developer infrastructure platform — six services spanning feature flags, workflow orchestration, observability, auth, event analytics, and error tracking, behind a single Docker Compose command. | [GitHub](https://github.com/RDX-Rajat-Savdekar/DevStack) | 
